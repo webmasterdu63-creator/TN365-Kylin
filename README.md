@@ -1,2 +1,18 @@
-# TN365-Kylin
 TN365-Kylin - Future French customization project based on openKylin Linux.
+Goals
+
+    French localization
+    TN365 branding
+    Modern desktop experience
+    Community-driven development
+
+Status
+
+Planned for 2027.
+Roadmap
+
+    Research and evaluation
+    openKylin integration
+    TN365 branding
+    Packaging and repository
+    First ISO release
