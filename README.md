@@ -16,3 +16,4 @@ Roadmap
     TN365 branding
     Packaging and repository
     First ISO release
+Status: Planned for 2027
