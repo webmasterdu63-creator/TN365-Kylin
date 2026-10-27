@@ -1,3 +1,9 @@
+<p align="center">
+<img src="kylin-banner.jpeg" alt="TN365-Kylin Banner" width="100%">
+</p>
+ # TN365-Kylin
+ 
+Future French openKylin Distribution
 TN365-Kylin - Future French customization project based on openKylin Linux.
 Goals
 
